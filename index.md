@@ -6,4 +6,4 @@
 
 [Why Does This Matter?](https://anl059.github.io/syn1-climate-change/matters.html)
 
-[Ways you can get Involved?](https://anl059.github.io/syn1-climate-change/getinvolved.html)
+[Ways you can get Involved:](https://anl059.github.io/syn1-climate-change/getinvolved.html)
