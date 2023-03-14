@@ -13,4 +13,14 @@
 
 7) **Advocate for policy change:** Contacting elected officials and supporting policies that address climate change, such as carbon pricing and renewable energy standards, can help create systemic change towards a more sustainable future.
 
+**Links to Additional Resources for San Diego Natives:**
+
+[2022 San Diego Climate Action Plan](https://www.sandiego.gov/sustainability/climate-action-plan)
+
+[2023 San Diego Climate Action Plan Proposal](https://www.sandiego.gov/sites/default/files/2023-3-3_climate_action_implementation_plan.pdf)
+
+[San Diego Local Government](https://www.sandiego.gov/)
+
+
+
 [Home](https://anl059.github.io/syn1-climate-change/home.html)
