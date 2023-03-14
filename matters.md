@@ -11,4 +11,4 @@
 
 6) **Moral responsibility:** As individuals and members of society, we have a moral responsibility to take action to address climate change and protect future generations from its impacts.
 
-[Home](https://anl059.github.io/syn1-climate-change/)
+[Home](https://anl059.github.io/syn1-climate-change/index.html)
