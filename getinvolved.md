@@ -22,5 +22,4 @@
 [San Diego Local Government](https://www.sandiego.gov/)
 
 
-
-[Home](https://anl059.github.io/syn1-climate-change/)
+[Home](https://anl059.github.io/syn1-climate-change/index.html)
