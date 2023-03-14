@@ -13,4 +13,4 @@
 
 7) **Economic impacts:** The cost of addressing the impacts of climate change, such as repairing damage from extreme weather events and investing in adaptation measures, can be significant. The economic impacts of climate change can also be felt through disruptions to supply chains and changes in consumer behavior.
 
-[Home](https://anl059.github.io/syn1-climate-change/)
+[Home](https://anl059.github.io/syn1-climate-change/index.html)
