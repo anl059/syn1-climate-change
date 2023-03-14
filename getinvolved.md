@@ -23,4 +23,4 @@
 
 
 
-[Home](https://anl059.github.io/syn1-climate-change/home.html)
+[Home](https://anl059.github.io/syn1-climate-change/)
