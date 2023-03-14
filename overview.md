@@ -5,4 +5,4 @@ Climate change is caused by the buildup of greenhouse gases (primarily carbon di
 
 Climate change is a global issue that affects every living organism on Earth, and it requires collective action from governments, businesses, and individuals to reduce greenhouse gas emissions and limit its impacts.
 
-[Home](https://anl059.github.io/syn1-climate-change/home.html)
+[Home](https://anl059.github.io/syn1-climate-change/)
