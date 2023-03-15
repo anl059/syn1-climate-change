@@ -1,5 +1,5 @@
 ## What are the Consequences of Climate Change?
-1) **Rising sea levels:** As the Earth's temperature increases, glaciers and ice sheets melt, causing sea levels to rise. This can lead to flooding and erosion of coastal areas and the displacement of millions of people.
+1) **Rising sea levels:** The rising Earth's temperature results in the melting of glaciers and ice sheets, which subsequently causes sea levels to rise, resulting in the flooding and erosion of coastal areas and potentially causing the displacement of millions of people.
 
 ![image](https://user-images.githubusercontent.com/122491210/225198869-cd93dde7-6fbd-4f86-993b-00af9d404fac.png)
 
@@ -15,15 +15,15 @@
 
 ![image](https://user-images.githubusercontent.com/122491210/225196378-c2d8e4b8-44d6-4332-8787-be149548dcf4.png)
 
-5) **Food and water insecurity:** Changes in temperature and rainfall patterns can have significant impacts on crop yields and freshwater availability, leading to food and water insecurity for millions of people.
+5) **Food and water insecurity:** The impacts of changing temperature and rainfall patterns on crop yields and freshwater availability can result in food and water insecurity for millions of people.
 
 ![image](https://user-images.githubusercontent.com/122491210/225198631-03078fe1-36b1-4a64-906b-304cbb0a668f.png)
 
-6) **Public health impacts:** Rising temperatures and more frequent heatwaves can lead to heat exhaustion, dehydration, and other heat-related illnesses. Climate change can also increase the spread of infectious diseases and air pollution, exacerbating respiratory and cardiovascular problems.
+6) **Public health impacts:** Rising temperatures and more frequent heatwaves can lead to heat exhaustion, dehydration, and other heat-related illnesses. Climate change can also increase the spread of infectious diseases and air pollution, worsening respiratory and cardiovascular problems.
 
 ![image](https://user-images.githubusercontent.com/122491210/225197356-262b4265-002a-4f5d-8f15-ae5a59e0cdb4.png)
 
-7) **Economic impacts:** The cost of addressing the impacts of climate change, such as repairing damage from extreme weather events and investing in adaptation measures, can be significant. The economic impacts of climate change can also be felt through disruptions to supply chains and changes in consumer behavior.
+7) **Economic impacts:** Addressing the impacts of climate change, such as repairing damage from extreme weather events and investing in protective measures, can come at a significant cost, and the economic effects of climate change can also be seen through supply chain disruptions and changes in consumer behavior.
 
 ![image](https://user-images.githubusercontent.com/122491210/225196724-0a67b9a5-f619-4092-b3b3-aa6181fa0b13.png)
 
